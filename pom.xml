@@ -68,7 +68,7 @@
                             </artifactory>
                             <publisher>
                                 <contextUrl>http://localhost:8081/artifactory</contextUrl>
-                                <username>jenkins</username>
+                                <username>admin</username>
                                 <password>Kanth_957</password>
                                 <repoKey>jenkins-release</repoKey>
                                 <snapshotRepoKey>jenkins-snapshot</snapshotRepoKey>
